@@ -1,0 +1,20 @@
+# Arquivos de credenciais
+*.json
+*.pem
+*.key
+credentials.yaml
+.env
+
+# Logs
+logs/
+*.log
+
+# Python cache e arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDEs (opcional, mas recomendado)
+.vscode/
+.idea/
